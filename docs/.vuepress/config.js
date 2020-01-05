@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Identity - Parken Consulting, India",
-  description: "OAuth, SAML, Open ID Connect, Single Singon Consulting from India",
+  title: "Transactional Emails - Parken Consulting, India",
+  description: "AWS SES Integrations, Click Tracking, Open Tracking, Email Inbox Placement Consulting from India",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "OAuth in NodeJS", link: "/guide/nodejs-oauth-implementation.html" },
+      { text: "AWS SES", link: "/guide/transactional-email-click-and-open-tracking.html" },
     ]
   },
   dest: "public",
@@ -12,7 +12,7 @@ module.exports = {
       'social-share',
     {
       'sitemap': {
-        hostname: 'https://identity.parkenconsulting.com/'
+        hostname: 'https://email.parkenconsulting.com/'
       },
     }
   ],
