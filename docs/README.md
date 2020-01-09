@@ -1,4 +1,4 @@
-# Your NodeJS, AngularJS Artchitect, Now Online
+# Your Transactional Email Artchitect, Now Online
 
 <br>
 <br>
@@ -13,3 +13,6 @@
 <a href="/guide/" class="nav-link action-button">
   Get Started →
 </a>
+
+
+- [email-templates](https://github.com/parken-consulting/parken-email-templates)
