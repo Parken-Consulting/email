@@ -8,6 +8,11 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 ## Features
 
+### UX
+
+- Unsubscribe Link in Email Footer
+- Preferences page for customers
+
 ### Customers
 
 - Unsubscribe from specific emails
