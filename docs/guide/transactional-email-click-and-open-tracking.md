@@ -4,17 +4,33 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 - [SES Metric - Email Click and Open Tracking Dashboard](https://www.sesmetric.com/feature-ses-dashboard.html)
 
+## Features
 
-## Marketing/Engagement Features
+### Customers
+
+- Unsubscribe from specific emails
+
+### Internal Employees
+
+- Unsubscribe to emails on customer request
+
+### Marketing/Engagement 
 
 - Click Tracking
 - Open Tracking
+- Global Suppression list
+- Ads in email footer
 
-## Technical Features
+### Technical
 
 - Bounce Tracking
 - Complaint Tracking
 
-## Developer Features
+### Developer
 
--- Email Render Error Tracking
+- Email Render Error Tracking
+
+### Product Team
+
+- Track every type of email - Ex: Activation email, Shipment Delivery Email
+
