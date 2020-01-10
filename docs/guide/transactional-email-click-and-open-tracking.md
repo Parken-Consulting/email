@@ -41,3 +41,9 @@ for one click installation contact [nakul@parkenconsulting.com](mailto:nakul@par
 
 - Track every type of email - Ex: Activation email, Shipment Delivery Email
 
+## Reports
+
+- Top Templates
+- Top Customers
+
+
